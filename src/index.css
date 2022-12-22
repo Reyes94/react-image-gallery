@@ -1,0 +1,30 @@
+body {
+  color: #ccc; 
+  background-color: darkslateblue;
+}
+
+
+h1{
+  padding: 2rem;
+} 
+
+.card {
+  width: 18rem;
+  background-color: #2d2269;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #2d2269;
+  text-align: center; 
+}
+
+.btn-footer{
+  width: 20%;
+} 
+
+.btn{
+  background-color:rgb(143, 128, 196);
+}
